@@ -1,7 +1,7 @@
 # Teams Networking
 
 ## Live Preview
-[Teams-Networking] (https://andreiilinca.github.io/teams-networking/)
+[Teams-Networking](https://andreiilinca.github.io/teams-networking/)
 
 ## Install (one time usage)
 
