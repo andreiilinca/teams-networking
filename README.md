@@ -2,20 +2,23 @@
 
 ## Install (one time usage)
 
-sh
+```sh
 git clone https://github.com/andreiilinca/teams-networking.git
 cd teams-networking
 npm install
+```
 
 ## Start (Daily usage)
 
 in other terminal open:
 
-sh
+```sh
 cd c:/Products/node-api
 npm start
+```
 
 in current project run:
 
-sh
+```sh
 npm start
+```
